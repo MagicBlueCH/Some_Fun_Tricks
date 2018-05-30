@@ -1,0 +1,2 @@
+# Some_Fun_Tricks
+SOME FUN TRICKS IN WEB
