@@ -38,4 +38,25 @@
 
 <!-- precondition=  same origin && iframe-csp not overwrite csp(http-header-csp meta-csp )-->
 
+
+<iframe srcdoc="<iframe src='https://blue.exeye.io/block_request'/>" csp="script-src 'none'"></iframe> 
+
+<!-- precondition=  same origin && iframe-csp not overwrite csp(http-header-csp meta-csp )  && but iframe-csp can add your csp strategies to make it strict -->
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
